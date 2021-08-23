@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.mindex.challenge.data;
 
 import java.util.Date;

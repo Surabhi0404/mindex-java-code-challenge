@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.mindex.challenge.dao;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
